@@ -1,7 +1,7 @@
 ### Hey there, I'm Rohit Anand 👋, 
 ![](https://komarev.com/ghpvc/?username=RA489&color=green)
 
-- 🔭 I’m currently working at [NEC](https://in.nec.com/) as a Senior Software Engineer
+- 🔭 I’m currently working at [NEC](https://in.nec.com/) as a Technical Lead.
  
 
 ### GitHub Stats
